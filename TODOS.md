@@ -1,1 +1,0 @@
-https://electronstudio.github.io/pygame-zero-book/chapters/shooter.html
